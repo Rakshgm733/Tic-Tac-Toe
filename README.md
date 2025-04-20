@@ -1,5 +1,7 @@
 # Tic Tac Toe Game 🎮
 
+This game runs on your terminal — clone this repo and compile the code to play!
+
 A terminal-based Tic Tac Toe game using C++ and Object-Oriented Programming principles.
 
 ### Features:
